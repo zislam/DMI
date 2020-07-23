@@ -9,7 +9,7 @@ DMI specification from:
 For more information, please see Associate Professor Zahid Islam's website [here](http://csusap.csu.edu.au/~zislam/)
 
 ## Installation
-Either download DMI from the Weka package manager, or download the latest release from the "**Releases**" section on the sidebar of Github.
+Either download DMI from the Weka package manager, or download the latest release from the "**Releases**" section on the sidebar of Github. A video on the installation and use of the package can be found [here](https://www.youtube.com/watch?v=mS_2im6XCD8&t=1s).
 
 ## Compilation / Development
 Set up a project in your IDE of choice, including weka.jar and EMImputation.jar as compile-time libraries. EMImputation.jar is available in the Weka package manager.
