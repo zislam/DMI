@@ -8,6 +8,19 @@ DMI specification from:
 
 For more information, please see Associate Professor Zahid Islam's website [here](http://csusap.csu.edu.au/~zislam/)
 
+## BibTeX
+```
+@article{rahman2013imputation,
+  title={Missing Value Imputation Using Decision Trees and Decision Forests by Splitting and Merging Records: Two Novel Techniques},
+  author={Rahman, Md. Geaur and Islam, Md Zahidul},
+  journal={Knowledge-Based Systems},
+  volume={53},
+  pages={51--65},
+  year={2013},
+  publisher={Elsevier}
+}
+```
+
 ## Installation
 Either download DMI from the Weka package manager, or download the latest release from the "**Releases**" section on the sidebar of Github. A video on the installation and use of the package can be found [here](https://www.youtube.com/watch?v=mS_2im6XCD8&t=1s).
 
